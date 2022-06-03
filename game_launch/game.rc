@@ -21,7 +21,7 @@
 
 #define VER_FILEDESCRIPTION_STR	"Xash3D Launcher"
 #define VER_ORIGINALFILENAME_STR	"hl.exe"
-#define VER_INTERNALNAME_STR		"xash"
+#define VER_INTERNALNAME_STR		"hlsource"
 
 #include <common.ver>
 
